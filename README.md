@@ -1,32 +1,20 @@
-# A clean, minimalistic react music player web application.
+# Minimalistic React Music Player Web Application
 
-This project was made by following Dev Ed's react course, with some of my personal tweaks. In the course, he used scss modules to style, while I used styled components. I choose to use styled components because of the advantage of being able to style based on props, which is personally, is much more convenient than add class and scss modules.
+This React-based music player application was created by **Jayanth Kumar Reddy**, inspired by Dev Ed's React course. While the course used SCSS modules for styling, this project uses **styled-components** for better flexibility, especially when styling based on props.
 
-![alt text](https://i.ibb.co/VtT4JPc/image.png "Vibes music web application")
-![alt text](https://i.ibb.co/CtSvzvd/image.png "Vibes music web application with libraries")
+## Features
+- Clean and minimalistic design
+- Styled-components for dynamic styling
+- Simple and easy-to-use interface
 
-## Test it out yourself!
+## Try It Out!
 
-https://wilson-react-music-player.vercel.app/
+Test the application live here:  
+[https://wilson-react-music-player.vercel.app/](https://wilson-react-music-player.vercel.app/)
 
-Clone the repository and start testing out the application yourself!
+## Run the Application Locally
 
-In the project directory, you can run:
-
-```
-// 1. If you have not installed Yarn:
-npm install yarn
-
-// 2. Install the dependencies:
-yarn install
-
-// 3. Kick start the project in development mode:
-yarn start
-```
-
-If you're ready to deploy the application to the internet, use:
-```
-yarn build
-```
-This will build the app for production to the "build" folder. The Built version will be optimized for best performance.
+1. **Install Yarn (if not already installed):**
+   ```bash
+   npm install yarn
 
